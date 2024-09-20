@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+.title{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+.icon{
+    margin-right: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.content{
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+.info{
+    color: white;
+    padding: 20px;
+    background-color:rgb(45, 174, 238);
+    font-size: 30px;
+    border-radius: 15px;
+}
